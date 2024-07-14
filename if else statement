@@ -3,3 +3,16 @@ if(rcb=="winn"):
     print("yes")
 else:
     print("no")
+
+
+
+
+part 2
+
+
+rcb="lose"
+if(rcb=="win"):
+    print("you win")
+else:
+    print("we lost the match")
+
