@@ -1,0 +1,5 @@
+rcb="win"
+if(rcb=="winn"):
+    print("yes")
+else:
+    print("no")
